@@ -59,7 +59,7 @@ for sentence in sentences:
     print(sentence + " - ", similarity)
 
 
-# =================== 3rd code extract from document ======================
+# =================== notes ======================
 
 # when using the simpler language model 'en_core_web_sm' the following warning is displayed:
 
